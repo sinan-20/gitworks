@@ -3,3 +3,11 @@
 >git stutus [list all untracked files]
 
 >git add-A [to adding all untracked files to staging area]
+
+>git commit -m "commit message"[to commit added file  to local repository ]
+
+>git clone [to take exact copy from remort repository to local repository]
+
+>git pull [to take changes from remort repository to local work space]
+
+>git push[to sent changes from local repository to remote repository]
