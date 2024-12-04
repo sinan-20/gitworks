@@ -20,4 +20,6 @@
 
 git remote add remote_name remort_path [to add remote]
 
+>git push remote_name branch_name [push remort repository]
+
  
