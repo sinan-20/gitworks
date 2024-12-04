@@ -17,4 +17,7 @@
 >git config --global user.name "user name"[to add user name]
 
 >git config --global user.email "email"[to add email]
+
+git remote add remote_name remort_path [to add remote]
+
  
